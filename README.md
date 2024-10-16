@@ -1,6 +1,9 @@
-# Associated course
+# Project Title
 
-This code is discussed [here](https://https://github.com/trediagaurav/Aws-Rekognition.git/).
+AWS AI service name AWS Rekognition for face detection.
+
+# Architectural Image
+![Architecture](Architecture.png)
 
 # Setup aws S3 bucket
 
